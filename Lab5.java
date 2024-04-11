@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class MyTravelPlannerTest {
+class Lab5 {
 
     private MyTravelPlanner planner;
 
